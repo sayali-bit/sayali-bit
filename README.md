@@ -13,21 +13,21 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayalikawatkar&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sayalikawatkar?label=Followers&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sayali-bit&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sayali-bit?label=Followers&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayalikawatkar&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalikawatkar&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayali-bit&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayali-bit&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayalikawatkar&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sayali-bit&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayalikawatkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayali-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
