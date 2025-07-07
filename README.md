@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Sayali 👋</h1>
 
-<p align="center">
-  💡 AI Intern | 🛰️ Satellite Vision Explorer | ⚙️ FastAPI Enthusiast | Future Staff Engineer 🚀
-</p>
+
 
 <p align="center">
   <em>"Turning messy labels, satellite pixels & code into intelligent systems."</em>
