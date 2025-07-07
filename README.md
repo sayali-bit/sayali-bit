@@ -1,69 +1,78 @@
-<h1 align="center">Hey, I'm Sayali 👋</h1>
+<h1 align="center">Hi there, I'm Sayali 👋</h1>
 
 <p align="center">
-  💡 AI Intern | 🛰️ Computer Vision Explorer | ⚙️ Code. Learn. Repeat.
+  💡 AI Intern | 🛰️ Satellite Vision Explorer | ⚙️ FastAPI Enthusiast | Future Staff Engineer 🚀
+</p>
+
+<p align="center">
+  <em>"Turning messy labels, satellite pixels & code into intelligent systems."</em>
 </p>
 
 ---
 
-### 💻 Tech I Speak
+### 📊 GitHub Stats & Activity
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayalikawatkar&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sayalikawatkar?label=Followers&style=flat-square" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayalikawatkar&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalikawatkar&layout=compact&theme=radical" height="180" />
+</p>
 
-### 📈 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayalikawatkar&theme=radical" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayalikawatkar&style=flat&color=blue)
-![PRs](https://img.shields.io/badge/PRs-merged-blue?style=flat&logo=github)
-![Code Reviews](https://img.shields.io/badge/Code--Reviews-active-green?style=flat&logo=github)
-
----
-
-### 🧠 Right Now I’m
-
-- Fine-tuning YOLOv11 on 🛰️ satellite datasets (xView)
-- Debugging label issues and learning how not to trust raw `.txt` files 😅
-- Building smart dashboards using FastAPI + Streamlit + OpenAI
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayalikawatkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-### 🚀 Goals for 2025
+### 🛠️ Languages & Tools
 
-- Become the “go-to dev” for tough AI problems  
-- Start contributing to open source  
-- Build projects that feel like magic, but run on math ✨
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Reach Me
+### 🚧 Currently Building
 
-[![LinkedIn]([https://www.linkedin.com/in/sayali-kawatkar-5901a0245/](url)
+- YOLOv11-based object detection on 🛰️ satellite imagery (xView dataset)
+- E-commerce insights platform with **FastAPI**, **Streamlit**, **OpenAI**
+- A smarter me, one debug session at a time 💻🔥
+
+---
+
+### 🎯 2025 Goals
+
+- Become the go-to engineer in tough AI problems 🤖  
+- Build a real-world AI product from scratch  
+- Mentor juniors & contribute to open source 💬  
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sayali.kawatkar@unicoconnectom.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  ⚡ Just a dev with a dream and a decent GPU
+  ⚡ Passionate about building things that feel like magic, but run on logic.
 </p>
-
-
-<!--
-**sayali-bit/sayali-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
